@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-BoxModel/static/css/main.0e67c378.css",
+    "main.js": "/react-BoxModel/static/js/main.af577994.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-BoxModel/static/js/453.ed3810f9.chunk.js",
+    "static/media/dead.png": "/react-BoxModel/static/media/dead.c07aa6272343869b5993.png",
+    "index.html": "/react-BoxModel/index.html",
+    "main.0e67c378.css.map": "/react-BoxModel/static/css/main.0e67c378.css.map",
+    "main.af577994.js.map": "/react-BoxModel/static/js/main.af577994.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-BoxModel/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e67c378.css",
+    "static/js/main.af577994.js"
+  ]
+}
