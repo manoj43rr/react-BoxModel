@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(139,35,35);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.topTab{
+    background-color: rgb(219,219,219);
+    border: 5px solid rgb(35,34,39);
+    border-radius: 16px;
+    display: flex;
+    width: 100%;
+    column-gap: 2rem;
+}
+
+.logo{
+    display: flex;
+    max-width: 100%;
+    margin: 0.5rem;
+
+}
+
+.HeroTxt{
+    color: rgb(35,34,39);
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 0.3rem;
+}
+
+@media only screen and (max-width: 435px) {
+    img{
+        width: 6rem;
+        height: auto;
+    }
+
+    h1{
+        font-size:x-large;
+    }
+  }
+
+@media only screen and (max-width: 345px) {
+img{
+    width: 6rem;
+    height: auto;
+}
+
+h1{
+    font-size:large;
+}
+}
+

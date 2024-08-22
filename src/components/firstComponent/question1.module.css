@@ -1,0 +1,26 @@
+.EntryQues{
+    background-color: rgb(35,34,39);
+    border: 2px groove rgb(219,219,219);
+    border-radius: 6px;
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Question{
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+    margin-left: 0.4rem;
+    color: rgb(219,219,219);
+    font-weight: bolder;
+}
+
+.Answer{
+    margin: 0.4rem;
+    color: rgb(219,219,219);
+    font-size: 1rem;
+    font-weight:100;
+    text-align: justify;
+    font-size:small;
+}

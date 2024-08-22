@@ -1,0 +1,28 @@
+.property{
+    margin:0.5rem;
+    background-color: rgb(35, 34, 39);
+    border: 2px groove rgb(219,219,219);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sideHeading{
+    margin: 0.4rem;
+    color: rgb(219, 219, 219);
+}
+
+.theory{
+    margin: 0.2rem 0.4rem 0.2rem 0.4rem;
+    color: rgb(219, 219, 219);
+    text-align: justify;
+    font-size: small;
+
+}
+
+.imp{
+    margin: 0.2rem 0.4rem 0.2rem 0.4rem;
+    color: rgb(219, 219, 219);
+    font-size: small;
+
+}
